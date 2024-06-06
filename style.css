@@ -5,17 +5,17 @@ body {
 h1{
   text-align:center;
   letter-spacing: 3px;
-  font-family:sans-serif
+  font-family:sans-serif;
 }
 
 p {
   font-size:15px;
   text-align:center;
-  font-family:monospace
+  font-family:monospace;
 }
 
 a {
-  Border-style:solid;
+  border-style:solid;
   border-color:#3f56bc;
   border-radius:5px;
   padding:3px;
